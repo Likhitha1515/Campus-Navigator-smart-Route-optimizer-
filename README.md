@@ -50,10 +50,10 @@ campus_navigator/
 **Installation**
 
 Install dependencies:
-python -m pip install -r requirements.txt
+py -m pip install -r requirements.txt
 
 Run the application:
-python -m streamlit run app.py
+py -m streamlit run app.py
 
 
 **Future Enhancements**
